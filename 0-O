@@ -1,3 +1,3 @@
-best case: O(n) (when the array is already sorted, and no swaps are needed)
-average case: O(n^2)
-worst case: O(n^2)
+O(n)
+O(n^2)
+O(n^2)
